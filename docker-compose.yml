@@ -3,7 +3,7 @@ version: "2.1"
 volumes:
   pihole_config: {}
   dnsmasq_config: {}
-  tailscale: {}
+  # tailscale: {}
 
 services:
   pihole:
